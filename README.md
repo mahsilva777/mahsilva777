@@ -7,7 +7,12 @@ Estou me desenvolvendo na linguagem javaScript
 
 Utilizo este espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-### você entrar contato comigo 📫
+### Você pode entrar contato comigo 📫
 
 00001123927996sp@al.educacao.sp.gov.br 
+
+
+
+
+
 ![](https://media1.tenor.com/m/TXcKu7KNFWQAAAAC/mlp-unicorn.gif)
